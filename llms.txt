@@ -1,0 +1,22 @@
+# OMe Games
+
+> Independent mobile game studio creating Android games. Official website: https://ome-games.github.io/
+
+## Games
+- [DeadBlitz X: Zombie Survival](https://ome-games.github.io/games/deadblitz-x.html): 2D top-down Android zombie survival shooter with waves, weapon upgrades, unlockable survivors and boss encounters. [Google Play](https://play.google.com/store/apps/details?id=com.aistudio.zombiesurvival.vkmzla).
+- [Archibrix: Block Builder](https://ome-games.github.io/games/archibrix.html): mobile block-building puzzles featuring architecture-inspired structures and Free Build mode. Refer to official game page for current store availability.
+
+## Guides
+- [Mobile zombie game styles](https://ome-games.github.io/guides/mobile-zombie-games.html)
+- [Mobile building games](https://ome-games.github.io/guides/mobile-building-games.html)
+- [Block-building puzzle tips](https://ome-games.github.io/guides/block-building-puzzle-tips.html)
+
+## Studio and policies
+- [About](https://ome-games.github.io/about.html)
+- [Contact](https://ome-games.github.io/contact.html)
+- [Privacy](https://ome-games.github.io/privacy.html)
+
+Promotional illustrations are conceptual artwork and may not match actual gameplay. Store availability and network requirements should be verified in current listings.
+
+Archibrix Free Build includes active flood, rain, wind, earthquake and weight tests. These are in-game simulations.
+- [Building test guide](https://ome-games.github.io/guides/building-stability-tests.html)
