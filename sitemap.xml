@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/about.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/contact.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/privacy.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/games/</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/games/deadblitz-x.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/games/archibrix.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/guides/mobile-zombie-games.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/guides/mobile-building-games.html</ns0:loc>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ome-games.github.io/guides/block-building-puzzle-tips.html</ns0:loc>
+  </ns0:url>
+</ns0:urlset>
